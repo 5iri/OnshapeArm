@@ -1,0 +1,206 @@
+<robot name="onshape">
+<link name="as_1112_-_m3,5(2)">
+<visual>
+<origin xyz="0.024302634561620656273 -0.02726640508353710135 -0.078378906488132477071" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///gear_ring.stl"/>
+</geometry>
+<material name="gear_ring_material">
+<color rgba="0.86666666666666669627 0.48627450980392156188 0.058823529411764705066 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.024302634561620656273 -0.02726640508353710135 -0.078378906488132477071" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///gear_ring.stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="0.060204172880710477012 -0.02711705016490242523 -0.018171936330573068563" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///part_13.stl"/>
+</geometry>
+<material name="part_13_material">
+<color rgba="0.98039215686274505668 0.71372549019607844922 0.0039215686274509803377 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.060204172880710477012 -0.02711705016490242523 -0.018171936330573068563" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///part_13.stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="0.073261698333494482127 -0.018729693301023336849 -0.078220090174153308893" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///lever.stl"/>
+</geometry>
+<material name="lever_material">
+<color rgba="0 0 0 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.073261698333494482127 -0.018729693301023336849 -0.078220090174153308893" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///lever.stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="0.073286421726912215346 -0.0060813696643485168347 0.013770890330249788494" rpy="3.141592653589793116 0.94588291337809615733 0" />
+<geometry>
+<mesh filename="package:///gear_2.1.stl"/>
+</geometry>
+<material name="gear_2.1_material">
+<color rgba="0.82352941176470584317 0.62352941176470588758 0.03529411764705882304 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.073286421726912215346 -0.0060813696643485168347 0.013770890330249788494" rpy="3.141592653589793116 0.94588291337809615733 0" />
+<geometry>
+<mesh filename="package:///gear_2.1.stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="0.024302634561620656273 -0.02726640508353710135 -0.078378906488132477071" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///as_1427_-_m3_x_12(2).stl"/>
+</geometry>
+<material name="as_1427_-_m3_x_12(2)_material">
+<color rgba="0.74509803921568629193 0.73725490196078435901 0.72941176470588231506 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.024302634561620656273 -0.02726640508353710135 -0.078378906488132477071" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///as_1427_-_m3_x_12(2).stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="0.073286421726912215346 -0.0090813696643485125604 -0.016229109669750208661" rpy="0 -0.94767708817281770539 0" />
+<geometry>
+<mesh filename="package:///gear.stl"/>
+</geometry>
+<material name="gear_material">
+<color rgba="0.019607843137254901689 0.019607843137254901689 0.019607843137254901689 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.073286421726912215346 -0.0090813696643485125604 -0.016229109669750208661" rpy="0 -0.94767708817281770539 0" />
+<geometry>
+<mesh filename="package:///gear.stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="0.024302634561620656273 -0.02726640508353710135 -0.078378906488132477071" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///iso_7046-1_-_m1,6_x_8_-_4.8_-_h_-_iso.stl"/>
+</geometry>
+<material name="iso_7046-1_-_m1,6_x_8_-_4.8_-_h_-_iso_material">
+<color rgba="0.5999999999999999778 0.5999999999999999778 0.5999999999999999778 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.024302634561620656273 -0.02726640508353710135 -0.078378906488132477071" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///iso_7046-1_-_m1,6_x_8_-_4.8_-_h_-_iso.stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="0.024302634561620656273 -0.02726640508353710135 -0.078378906488132477071" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///as_1112_-_m3,5(2).stl"/>
+</geometry>
+<material name="as_1112_-_m3,5(2)_material">
+<color rgba="0.74509803921568629193 0.73725490196078435901 0.72941176470588231506 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.024302634561620656273 -0.02726640508353710135 -0.078378906488132477071" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///as_1112_-_m3,5(2).stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="0.10028642172691221157 -0.01208136966434851349 0.033770890330249797584" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///base_2.0_upload.stl"/>
+</geometry>
+<material name="base_2.0_upload_material">
+<color rgba="0.86666666666666669627 0.48627450980392156188 0.058823529411764705066 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.10028642172691221157 -0.01208136966434851349 0.033770890330249797584" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///base_2.0_upload.stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="0.024302634561620656273 -0.02726640508353710135 -0.078378906488132477071" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///as_1427_-_m3_x_10(2).stl"/>
+</geometry>
+<material name="as_1427_-_m3_x_10(2)_material">
+<color rgba="0.74509803921568629193 0.73725490196078435901 0.72941176470588231506 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.024302634561620656273 -0.02726640508353710135 -0.078378906488132477071" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///as_1427_-_m3_x_10(2).stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="0.0052883250001552082817 -0.028134504589884562487 -0.098195483995308988079" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///microservosg90.stl"/>
+</geometry>
+<material name="microservosg90_material">
+<color rgba="0 0 0.75294117647058822484 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.0052883250001552082817 -0.028134504589884562487 -0.098195483995308988079" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///microservosg90.stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="0.024302634561620656273 -0.02726640508353710135 -0.078378906488132477071" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///servo_horn_1_v2.stl"/>
+</geometry>
+<material name="servo_horn_1_v2_material">
+<color rgba="0.62745098039215685404 0.62745098039215685404 0.62745098039215685404 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.024302634561620656273 -0.02726640508353710135 -0.078378906488132477071" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///servo_horn_1_v2.stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="0.024302634561620656273 -0.02726640508353710135 -0.078378906488132477071" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///gripper.stl"/>
+</geometry>
+<material name="gripper_material">
+<color rgba="0.019607843137254901689 0.019607843137254901689 0.019607843137254901689 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.024302634561620656273 -0.02726640508353710135 -0.078378906488132477071" rpy="0 -0 0" />
+<geometry>
+<mesh filename="package:///gripper.stl"/>
+</geometry>
+</collision>
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0"/>
+<mass value="0" />
+<inertia ixx="0" ixy="0"  ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+</link>
+
+
+</robot>
