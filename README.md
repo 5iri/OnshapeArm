@@ -1,6 +1,6 @@
 # Manipulator Work
 
-Welcome to the **Manipulator Work** repository! This project focuses on the design and analysis of a 3-DOF (Degrees of Freedom) manipulator, intended for various robotics applications. The manipulator's CAD model was created using Onshape.
+Welcome to the **OnshapeArm** repository! This project focuses on the design and analysis of a 3-DOF (Degrees of Freedom) manipulator, intended for various robotics applications. The manipulator's CAD model was created using Onshape.
 
 ---
 
