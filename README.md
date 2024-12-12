@@ -52,7 +52,7 @@ Contributions are welcome! Feel free to submit issues or pull requests if you ha
 For any queries or collaboration opportunities, feel free to reach out:
 
 - **GitHub**: [5iri](https://github.com/5iri)
-- **Email**: *[My Email](mailto:shrivishakhdevanand@gmail.com)*
+- **Email**: *[My Email](mailto:shrivishakhdevanand@gmail.com)
 
 ---
 

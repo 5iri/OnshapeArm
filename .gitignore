@@ -1,0 +1,30 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore backup files
+*.bak
+*.tmp
+
+# Ignore Onshape export files that aren't needed
+*.log
+*.iges
+*.step~
+
+# Ignore any CAD tool-specific files (if applicable)
+*.f3d
+*.sldprt
+*.sldasm
+
+# Ignore build or temporary folders
+/build/
+/temp/
+output/
+
+# Ignore GIF backups or large unneeded files
+*.gif~
+
+# Ignore user configuration files
+*.swp
+*.idea/
+*.vscode/
