@@ -39,6 +39,7 @@ The manipulator's CAD model was designed in Onshape with the following features:
 
 To access or edit the CAD model, request access to the Onshape project or use the exported files provided in the `/stl_files` directory.
 
+![CAD MODEL](./Screencast.gif)
 ---
 
 ## Contributing
